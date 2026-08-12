@@ -1,5 +1,12 @@
 # Laboratory 03 – Multi-Cloud Explorer
 
-This laboratory explores the three major cloud computing platforms: Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP).
+This laboratory explores Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP). It focuses on researching cloud platforms, comparing their services, analyzing business requirements, and recommending appropriate cloud solutions.
 
-The purpose of this laboratory is to understand the services, strengths, pricing considerations, and appropriate use cases of each major cloud platform and to develop the ability to recommend cloud solutions based on client requirements.
+## Mission Objectives
+
+- Explore major public cloud platforms.
+- Identify core services offered by AWS, Azure, and GCP.
+- Compare cloud services across providers.
+- Analyze business requirements and recommend cloud solutions.
+- Develop professional technical documentation using Markdown.
+- Continue developing the GitHub Cloud Computing Portfolio.
