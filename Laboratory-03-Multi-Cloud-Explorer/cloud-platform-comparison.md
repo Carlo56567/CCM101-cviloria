@@ -27,4 +27,4 @@ Google Cloud is particularly strong in artificial intelligence, machine learning
 
 ### Which cloud platform would you personally choose and why?
 
-I would personally choose [AWS/Azure/GCP] because [your reason]. Based on my research, I think this platform would be the most appropriate for my future cloud computing projects because [your explanation].
+I would personally choose **AWS** because it is easy to use and has many cloud services to choose from. Based on my research, I think AWS would be the most appropriate for my future cloud computing projects because it is reliable, flexible, and widely used by many companies. I can also learn many useful skills from using AWS that can help me in my future career.
